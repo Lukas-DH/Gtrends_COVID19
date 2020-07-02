@@ -9,3 +9,4 @@
 * downloadable csv from the ECDC
 * google trands API
 * selfmade webscraper : Google Trends
+
